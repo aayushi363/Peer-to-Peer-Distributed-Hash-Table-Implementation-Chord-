@@ -1,0 +1,20 @@
+python3 -u main.py --Ip vdi-linux-040.ccs.neu.edu --Port 15010 --BitsLength 123456
+
+python3 -u main.py --Ip vdi-linux-041.ccs.neu.edu --Port 15010 --BitsLength 123456 --PeerIp vdi-linux-040.ccs.neu.edu --PeerPort 15010
+
+python3 -u main.py --Ip vdi-linux-042.ccs.neu.edu --Port 15010 --BitsLength 123456 --PeerIp vdi-linux-040.ccs.neu.edu --PeerPort 15010
+
+
+python3 -u main.py --Ip vdi-linux-043.ccs.neu.edu --Port 15010 --BitsLength 123456 --PeerIp vdi-linux-040.ccs.neu.edu --PeerPort 15010
+
+python3 -u main.py --Ip vdi-linux-044.ccs.neu.edu --Port 15010 --BitsLength 123456 --PeerIp vdi-linux-040.ccs.neu.edu --PeerPort 15010
+
+python3 -u main.py --Ip vdi-linux-045.ccs.neu.edu --Port 15010 --BitsLength 123456 --PeerIp vdi-linux-040.ccs.neu.edu --PeerPort 15010
+
+python3 -u main.py --Ip vdi-linux-046.ccs.neu.edu --Port 15010 --BitsLength 123456 --PeerIp vdi-linux-040.ccs.neu.edu --PeerPort 15010
+
+python3 -u main.py --Ip vdi-linux-047.ccs.neu.edu --Port 15010 --BitsLength 123456 --PeerIp vdi-linux-040.ccs.neu.edu --PeerPort 15010
+
+python3 -u main.py --Ip vdi-linux-048.ccs.neu.edu --Port 15010 --BitsLength 123456 --PeerIp vdi-linux-040.ccs.neu.edu --PeerPort 15010
+
+python3 -u main.py --Ip vdi-linux-049.ccs.neu.edu --Port 15010 --BitsLength 123456 --PeerIp vdi-linux-040.ccs.neu.edu --PeerPort 15010

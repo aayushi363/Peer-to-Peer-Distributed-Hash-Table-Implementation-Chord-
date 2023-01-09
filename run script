@@ -1,0 +1,29 @@
+nohup python3 -u main.py --Ip Amiths-MacBook-Pro.local --Port 15010 --BitsLength 12345 > /Users/amithganesh/khoury/distributed_systems/CS7610-Chord/1.out &
+
+sleep 2
+
+nohup python3 -u main.py --Ip Amiths-MacBook-Pro.local --Port 15011 --BitsLength 12345 --PeerIp Amiths-MacBook-Pro.local --PeerPort 15010 > /Users/amithganesh/khoury/distributed_systems/CS7610-Chord/2.out &
+
+sleep 2
+
+
+nohup python3 -u main.py --Ip Amiths-MacBook-Pro.local --Port 15012 --BitsLength 12345 --PeerIp Amiths-MacBook-Pro.local --PeerPort 15010 > /Users/amithganesh/khoury/distributed_systems/CS7610-Chord/3.out &
+
+sleep 2
+
+
+nohup python3 -u main.py --Ip Amiths-MacBook-Pro.local --Port 15013 --BitsLength 12345 --PeerIp Amiths-MacBook-Pro.local --PeerPort 15010 > /Users/amithganesh/khoury/distributed_systems/CS7610-Chord/4.out &
+
+sleep 2
+
+
+nohup python3 -u main.py --Ip Amiths-MacBook-Pro.local --Port 15014 --BitsLength 12345 --PeerIp Amiths-MacBook-Pro.local --PeerPort 15010 > /Users/amithganesh/khoury/distributed_systems/CS7610-Chord/5.out &
+
+nohup python3 -u main.py --Ip Amiths-MacBook-Pro.local --Port 15015 --BitsLength 12345 --PeerIp Amiths-MacBook-Pro.local --PeerPort 15010 > /Users/amithganesh/khoury/distributed_systems/CS7610-Chord/6.out &
+
+nohup python3 -u main.py --Ip Amiths-MacBook-Pro.local --Port 15016 --BitsLength 12345 --PeerIp Amiths-MacBook-Pro.local --PeerPort 15010 > /Users/amithganesh/khoury/distributed_systems/CS7610-Chord/7.out &
+
+nohup python3 -u main.py --Ip Amiths-MacBook-Pro.local --Port 15017 --BitsLength 12345 --PeerIp Amiths-MacBook-Pro.local --PeerPort 15010 > /Users/amithganesh/khoury/distributed_systems/CS7610-Chord/8.out &
+
+nohup python3 -u main.py --Ip Amiths-MacBook-Pro.local --Port 15018 --BitsLength 12345 --PeerIp Amiths-MacBook-Pro.local --PeerPort 15010 > /Users/amithganesh/khoury/distributed_systems/CS7610-Chord/9.out &
+
